@@ -1,0 +1,11 @@
+{
+ "gpu_ids": "0",
+ "name": "ft_ResAttention",
+ "data_dir": "../Market/pytorch",
+ "train_all": true,
+ "color_jitter": false,
+ "batchsize": 20,
+ "erasing_p": 1.0,
+ "use_dense": false,
+ "PCB": false
+}
