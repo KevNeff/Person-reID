@@ -2,7 +2,9 @@
 
 ## Context
 	
-	Completed with great classmates Akshaye Anitha Pradeep and Rohan Agrawal.  This network is trained on the MarketWatch dataset.  This dataset contains bounding boxes of passerbys in security cameras.  This network reidentifies a person when they reappear on another camera or the same camera again.
+Completed with great classmates Akshaye Anitha Pradeep and Rohan Agrawal.  
+The network is trained on the MarketWatch dataset.  
+This dataset contains bounding boxes of passerbys in security cameras, and the  network reidentifies a person when they reappear on another camera or the same camera again.
 
 ## Prerequisites:
 1. Python 3.6
