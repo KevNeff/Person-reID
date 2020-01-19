@@ -58,6 +58,10 @@ The network is trained on the MarketWatch dataset.  This dataset contains boundi
    
    It will output Rank@1, Rank@5, Rank@10 and mAP results.
    
- ### 5. References
+### 5. References
  
 We started with [this model](https://github.com/layumi/Person_reID_baseline_pytorch) to build this network for our class competition.
+
+### 6. Report
+
+[embed]https://github.com/KevNeff/Person-reID/blob/master/AI_Report_1.pdf[/embed]
