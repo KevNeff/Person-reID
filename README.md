@@ -64,4 +64,4 @@ We started with [this model](https://github.com/layumi/Person_reID_baseline_pyto
 
 ### 6. Report
 
-[embed]https://github.com/KevNeff/Person-reID/blob/master/AI_Report_1.pdf[/embed]
+[AI_Report_1.pdf](https://github.com/KevNeff/Person-reID/blob/master/AI_Report_1.pdf)
